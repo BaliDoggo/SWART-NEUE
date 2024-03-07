@@ -24,13 +24,14 @@ background-color: #242926
 b {
   color: #c2c4c3;
   text-align:center;
-  width: 100%
   font-size: 105px;
-  font-family: Alegre Sans, sans-serif;
   display: inline-block;
   animation-name: redblue;
   animation-duration: 10s;
   animation-iteration-count: infinite;
+  width: 100%
+  font-family: Alegre Sans, sans-serif;
+
 }
 
 h1 {
