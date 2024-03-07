@@ -7,8 +7,9 @@ background-color: #242926
     src: url('Alegre.ttf');
 }
 @keyframes redblue {
-  from {background-color: #f74f4f;}
-  to {background-color: #4f79f7;}
+  0% {background-color: #f74f4f;}
+  50% {background-color: #4f79f7;}
+  100% {background-color: #f564b6;}
 }
 b {
   color: #c2c4c3;
@@ -19,4 +20,5 @@ b {
   display: inline-block;
   animation-name: redblue;
   animation-duration: 10s;
+  animation-iteration-count: infinite;
 }
