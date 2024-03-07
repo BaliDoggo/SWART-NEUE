@@ -9,15 +9,12 @@ background-color: #242926
 @keyframes redblue {
   0% {
       background-color: #f74f4f;
-      font-weight: 400
   }
   50% {
       background-color: #4f79f7;
-      font-weight: 750
   }
   100% {
       background-color: #f74f4f;
-      font-weight: 400
        }
 }
 b {
