@@ -2,6 +2,10 @@ body {
 background-color: #242926
 }
 
+@font-face {
+    font-family: 'Alegre Sans';
+    src: url('Alegre.ttf');
+}
 
 b {
   color: #c2c4c3;
