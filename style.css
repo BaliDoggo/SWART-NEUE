@@ -9,7 +9,7 @@ background-color: #242926
 @keyframes redblue {
   0% {background-color: #f74f4f;}
   50% {background-color: #4f79f7;}
-  100% {background-color: #f564b6;}
+  100% {background-color: #f74f4f;}
 }
 b {
   color: #c2c4c3;
