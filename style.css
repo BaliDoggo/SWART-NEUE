@@ -6,12 +6,17 @@ background-color: #242926
     font-family: 'Alegre Sans';
     src: url('Alegre.ttf');
 }
-
+@keyframes redblue {
+  from {background-color: #f74f4f;}
+  to {background-color: #4f79f7;}
+}
 b {
   color: #c2c4c3;
   text-align:center;
   width: 100%;
   font-size: 105px;
   font-family: Alegre Sans, sans-serif;
-  display: inline-block
+  display: inline-block;
+  animation-name: redblue;
+  animation-duration: 10s;
 }
