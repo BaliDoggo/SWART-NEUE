@@ -23,13 +23,13 @@ background-color: #242926
 }
 b {
   color: #c2c4c3;
-  text-align:center;
+  text-align: center;
   font-size: 105px;
   display: inline-block;
   animation-name: redblue;
   animation-duration: 10s;
   animation-iteration-count: infinite;
-  width: 100%
+  width: 100%;
   font-family: Alegre Sans, sans-serif;
 
 }
