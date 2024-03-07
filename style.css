@@ -6,6 +6,10 @@ background-color: #242926
     font-family: 'Alegre Sans';
     src: url('Alegre.ttf');
 }
+@font-face {
+    font-family: 'Hedvig Letters';
+    src: url('Hedvig.ttf');
+}
 @keyframes redblue {
   0% {
       background-color: #f74f4f;
@@ -27,4 +31,13 @@ b {
   animation-name: redblue;
   animation-duration: 10s;
   animation-iteration-count: infinite;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    width: 100%
+    font-size: 25px;
+    display: inline-block;
+    font-family: Hedvig, sans-serif
 }
